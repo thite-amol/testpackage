@@ -1,0 +1,13 @@
+{
+    "name": "thite-amol/testpackage",
+    "description": "My first test package",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Amol Thite",
+            "email": "thiteamol144@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
